@@ -4,7 +4,11 @@
     "description": "A command to quickly change site url and home url of a wordpress installation",
     "homepage": "https://github.com/sabithahmd/change-url-command",
     "license": "MIT",
-    "authors": ["Sabith Ahammad"],
+    "authors": [{
+        "name": "Sabith Ahammad",
+        "email": "sa.codinglife@gmail.com",
+        "homepage": "https://github.com/sabithahmd/"
+    }],
     "require": {
         "wp-cli/wp-cli": "^2.5"
     },
